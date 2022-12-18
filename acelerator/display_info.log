@@ -1,0 +1,17 @@
+INFO:root:display_info executed with args: ('annu', 'forever 30'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'forever_30'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('annu', 'victor'), and kwargs: {} 
+INFO:root:display_info executed with args: ('victor', 'annu'), and kwargs: {} 
+INFO:root:display_info executed with args: ('victor', 'annu'), and kwargs: {} 
